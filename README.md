@@ -8,4 +8,4 @@ This repo implements a python program that allows us to extracts the played note
 
 For more details, please, refer to my medium article : https://medium.com/@zahrahafida.benslimane/audio-source-separation-using-non-negative-matrix-factorization-nmf-a8b204490c7d
 
-This is my first ever written blog, feel free to give a feedback ;)
+This is my first ever written blog, feel free to give a feedback  ;)
